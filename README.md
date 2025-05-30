@@ -51,7 +51,7 @@ My first **collaborative project** with other self-taught web designers — and 
 
 ---
 
-### 🎨 [Website Style Guide](https://amcastillejos.github.io/website-style-guide/)  
+### 🎨 [Website Style Guide](https://amcastillejos.github.io/website-style-guide/) *(WIP)* 
 A school project to demonstrate understanding of semantic HTML and consistent styling using CSS.
 
 ---
