@@ -4,7 +4,7 @@ date: 2025-05-20
 ---
 # 👋 Hi, I'm Alisha
 
-I'm a 36-year-old mom on a mission to break into tech — one late-night coding session at a time.
+I'm on a mission to break into tech — one late-night coding session at a time.
 
 ---
 
@@ -22,6 +22,7 @@ I’ve been building a strong foundation with:
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **WordPress**
 
 Currently diving into:
 - **Phaser.js** – exploring how to make browser-based games!
