@@ -38,7 +38,7 @@ A fast-paced micro adventure built in Phaser.js — designed to be played in und
 
 https://amcastillejos.github.io/one-min-hero/ | [View on GitHub]
 
-### Arts & Crafts Store 
+###  Arts & Crafts Store 
 My first solo project using VSCode. This was a project on Codecademy.com to showcase my basic knowledge of web design.
 
 https://amcastillejos.github.io/Arts-Crafts-/ 
