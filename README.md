@@ -48,7 +48,7 @@ My first project I collaborated on with a few other self-taught web designers. T
 
 https://amcastillejos.github.io/newslettersignup/
 
-### Website Style Guide
+### Website Style Guide *(WIP)*
 Another school project showcasing my knowledge of HTML and CSS. 
 
 https://amcastillejos.github.io/website-style-guide/
