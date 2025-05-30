@@ -43,6 +43,11 @@ My first solo project using VSCode. This was a project on Codecademy.com to show
 
 https://amcastillejos.github.io/Arts-Crafts-/ 
 
+### Newsletter Signup Page
+My first project I collaborated on with a few other self-taught web designers. This project was one of the first times using js. 
+
+https://amcastillejos.github.io/newslettersignup/
+
 ---
 
 ## 💪 What Keeps Me Going
