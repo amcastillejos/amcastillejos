@@ -1,89 +1,110 @@
 ---
-title: "Hello World"
-date: 2025-05-20
+title: "Alisha Castillejos"
+date: 2026-03-05
 ---
 
-# 👋 Hi, I'm Alisha
+# Alisha Castillejos
 
-I'm on a mission to break into tech — one late-night coding session at a time.
+Aspiring Full-Stack Developer | JavaScript | Angular | ServiceNow
 
+I’m a developer transitioning into tech with a background in psychology and family advocacy. I enjoy building practical web applications, learning modern development tools, and solving real-world problems with technology.
+
+Currently, I’m expanding my skills in **JavaScript, Angular, and ServiceNow development** while building projects that demonstrate my ability to design interactive web applications.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amcastillejos&show_icons=true&theme=default)
 ---
 
-## 💡 Why I Code
+## 💻 Tech Stack
 
-By day, I work a full-time job and take care of my family.  
-By night, I turn on my laptop, open up FreeCodeCamp or Codecademy, and **build** — websites, games, and a new future for myself.
+**Languages**
 
-I don’t come from a traditional tech background, but I’ve always been curious about how things work. Learning to code has taught me that creativity and problem-solving are skills I’ve always had — now I’m just adding **JavaScript** to the mix.
+* JavaScript
+* HTML
+* CSS
 
----
+**Frameworks & Tools**
 
-## 📚 What I'm Learning
+* Angular
+* Node.js (learning)
+* Git & GitHub
+* ServiceNow Platform
 
-Currently building a solid foundation with:
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **WordPress**
+**Other Skills**
 
-And diving into:
-- **Phaser.js** – learning how to build browser-based games!
-
-My focus is on real projects, interactive experiences, and learning by doing — especially anything a little playful.
-
----
-
-## 🕹️ Projects in Progress
-
-### 🎮 [One Minute Hero](https://amcastillejos.github.io/one-min-hero/) *(WIP)*  
-A fast-paced **micro adventure game** built with Phaser.js. Designed to be played in under 60 seconds — it's a creative way to combine my love of storytelling with new coding skills.  
-[View on GitHub](https://github.com/amcastillejos/one-min-hero)
+* Responsive Web Design
+* DOM Manipulation
+* UI Development
+* Debugging & Problem Solving
 
 ---
 
-### 🛍️ [Arts & Crafts Store](https://amcastillejos.github.io/Arts-Crafts-/)  
-My first solo project using VSCode. Built during a Codecademy course to showcase basic web design skills with **HTML** and **CSS**.
+## 🚀 Projects
+
+### Interactive World Map
+
+A JavaScript project that allows users to interact with a map and explore geographic information.
+
+**Skills demonstrated**
+
+* JavaScript logic
+* Event handling
+* DOM manipulation
 
 ---
 
-### 📬 [Newsletter Signup Page](https://amcastillejos.github.io/newslettersignup/)  
-My first **collaborative project** with other self-taught web designers — and one of the first times I used JavaScript in a real-world setting.
+### Tennessee Information Website
+
+A responsive website that showcases information about the state of Tennessee including geography, cities, and culture.
+
+**Skills demonstrated**
+
+* Responsive layout
+* Multi-page site architecture
+* Clean UI design
 
 ---
 
-### 🎨 [Website Style Guide](https://amcastillejos.github.io/website-style-guide/) *(WIP)* 
-A school project to demonstrate understanding of semantic HTML and consistent styling using CSS.
+### JavaScript Algorithm Practice
+
+A collection of coding challenges focused on strengthening JavaScript fundamentals and problem-solving skills.
 
 ---
 
-## 💪 What Keeps Me Going
+## 📚 Currently Learning
 
-Breaking into tech as an adult — and a parent — is tough.  
-But so is parenting, and I do that every day.
-
-I’ve learned to be patient with myself, to celebrate small wins, and to keep going even when things feel overwhelming.
-
-> If you're out there learning late at night too, you're not alone.  
-> We've got this.
+* Advanced JavaScript
+* Angular development
+* Node.js
+* ServiceNow application development
+* Full-stack architecture
 
 ---
 
-## 🤝 Let’s Connect
+## 🎯 Goals
 
-I’d love to meet other:
-- Career changers
-- Women in tech
-- Beginner game developers
-- Kind humans building cool things
+* Attain a **remote or hybrid developer role**
+* Continue growing into a **full-stack developer**
+* Build applications that solve practical problems for real users
+
+---
+
+## 📂 Featured Repositories
+
+Check out my pinned repositories below to explore the projects I’m currently working on.
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/amcastillejos
 
 📫 **alisha.bryant89@gmail.com**
 
-Feel free to reach out, collaborate, or just say hi!
+More projects coming soon as I continue building and learning.
 
 ---
 
-Thanks for visiting — and remember:  
-**It’s never too late to start.**
+
 
 
 <!---
