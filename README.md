@@ -40,7 +40,8 @@ Currently, I’m expanding my skills in **JavaScript, Angular, and ServiceNow de
 
 ## 🚀 Projects
 
-### Interactive World Map https://github.com/amcastillejos/angular-interactive-world-map
+### [Interactive World Map](https://github.com/amcastillejos/angular-interactive-world-map)
+
 
 A JavaScript project that allows users to interact with a map and explore geographic information.
 
