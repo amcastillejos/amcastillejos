@@ -11,7 +11,9 @@ I’m a developer transitioning into tech with a background in psychology and fa
 
 Currently, I’m expanding my skills in **JavaScript, Angular, and ServiceNow development** while building projects that demonstrate my ability to design interactive web applications.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amcastillejos&show_icons=true&theme=default)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amcastillejos&show_icons=true&theme=radical)
 ---
 
 ## 💻 Tech Stack
