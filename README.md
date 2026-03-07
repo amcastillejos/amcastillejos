@@ -53,7 +53,7 @@ A JavaScript project that allows users to interact with a map and explore geogra
 
 ---
 
-### Tennessee Information Website
+### [Tennessee Information Website] (https://github.com/amcastillejos/tennessee-information-website)
 
 A responsive website that showcases information about the state of Tennessee including geography, cities, and culture.
 
