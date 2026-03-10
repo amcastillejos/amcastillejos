@@ -11,11 +11,6 @@ I’m a developer transitioning into tech with a background in psychology and fa
 
 Currently, I’m expanding my skills in **JavaScript, Angular, and ServiceNow development** while building projects that demonstrate my ability to design interactive web applications.
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amcastillejos&show_icons=true&theme=radical)
----
-
 ## 💻 Tech Stack
 
 **Languages**
@@ -42,7 +37,7 @@ Currently, I’m expanding my skills in **JavaScript, Angular, and ServiceNow de
 
 ## 🚀 Projects
 
-### [Interactive World Map](https://github.com/amcastillejos/angular-interactive-world-map)
+### [Interactive World Map](https://github.com/amcastillejos/angular-app-interactive-world-map)
 
 
 A JavaScript project that allows users to interact with a map and explore geographic information.
